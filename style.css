@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+#mar{
+    color: firebrick;
+    font-size: 25px;
+    font-style: oblique;
+    font-family: monospace;
+}
+h1{
+    color: black;
+}
+#img{
+    height: 200px;
+    width: 200px;
+}
+h2{
+    color: black;
+}
+.aa{
+    color: firebrick;
+    text-decoration: none;
+}
+.aa:hover{
+    color: chocolate;
+}
