@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: gold;
     text-align: center;
 }
 #mar{
@@ -27,4 +27,20 @@ h2{
 }
 #mynavigator{
     position: sticky;
+}
+#campus{
+    text-align: center;
+}
+#campus h3{
+margin: 20px;
+}
+#campus img{
+margin-left: 300px;
+}
+i{
+    float: right;
+    margin-right: 15px;
+}
+#heading{
+    font: 25px;
 }
