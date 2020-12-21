@@ -1,0 +1,59 @@
+body{
+    background-color: gold;
+    text-align: center;
+}
+#mar{
+    color: firebrick;
+    font-size: 25px;
+    font-style: oblique;
+    font-family: monospace;
+}
+h1{
+    color: black;
+}
+#img{
+    height: 200px;
+    width: 200px;
+}
+h2{
+    color: black;
+}
+.aa{
+    color: firebrick;
+    text-decoration: none;
+}
+.aa:hover{
+    color: chocolate;
+}
+#mynavigator{
+    position: sticky;
+}
+#campus{
+    text-align: center;
+}
+#campus h3{
+margin: 20px;
+}
+#campus img{
+margin-left: 300px;
+}
+i{
+    float: right;
+    margin-right: 15px;
+}
+#heading{
+    font: 25px;
+}
+environment_li{
+    margin: 13px;
+}
+.environment_li p{
+    margin-top: 10px;
+}
+#lego{
+    border-radius: 25px;
+}
+.environment_li h4{
+    border-bottom: 2px solid black;
+    
+}
