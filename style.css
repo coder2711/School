@@ -44,3 +44,16 @@ i{
 #heading{
     font: 25px;
 }
+environment_li{
+    margin: 13px;
+}
+.environment_li p{
+    margin-top: 10px;
+}
+#lego{
+    border-radius: 25px;
+}
+.environment_li h4{
+    border-bottom: 2px solid black;
+    
+}
