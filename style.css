@@ -57,3 +57,18 @@ environment_li{
     border-bottom: 2px solid black;
     
 }
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 150px;
+}
+.img-modal{
+    display: inline-block;
+}
+.modal-body{
+    text-align: center;
+}
